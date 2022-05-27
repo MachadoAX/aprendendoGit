@@ -2,3 +2,8 @@ curso Git
 
 git init
 git status
+
+git add "nomodoarquivo.extensao"
+
+
+olá eu sou uma nova linha
