@@ -1,0 +1,4 @@
+curso Git
+
+git init
+git status
